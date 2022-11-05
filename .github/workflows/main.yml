@@ -10,5 +10,5 @@ jobs:
       run: |
         cd /home/ubuntu/mydemo/cicd
         ls -l 
-        git pull 
+        
         
